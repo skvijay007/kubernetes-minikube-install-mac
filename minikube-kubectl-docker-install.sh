@@ -16,3 +16,4 @@ curl -Lo minikube https://storage.googleapis.com/minikube/releases/v0.28.2/minik
 #Install Docker:
 sudo apt-get update \
 	&& sudo apt-get install -qy docker.io
+	
